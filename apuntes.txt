@@ -1,0 +1,25 @@
+el bucle while es un mientras la condicion es verdadera 
+do while garantoza que ocurra una vez
+for = para se usa para un total especifico de numeros
+{facilita tod}
+contador es para ir contando datos
+acumulador es para ir acumulando datos de la forma a = a +1
+
+for/para va en 3 partes inicializacion, la condicion y la expresion de incremnto o decremento
+for con un contador de esta forma de va a reaizar elbucle la cantidad de veces que se requiere
+se debe de declarar la cantidad de veces
+
+otra sentencias: ir repitiendo hasta que el usuario quiera lo contrario
+
+while: itera hasta que sea necesario para que la condicion ya no sea verdadera
+evalua la condicion para saber si se deb de comenzar a repetir y ahi hasta llegar a un falso
+
+tips:
+1)desglose de problemas
+2)construccion gradual
+3)visualizacion del diagrama de flujo
+4)observar el codigo de otros
+
+menus:
+son para preguntar al usuario el numero que desea haciendo que se haga el
+bloque de codigo del numero o palabra de la cual solicita
