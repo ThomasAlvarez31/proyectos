@@ -1,0 +1,14 @@
+variables
+constantes
+contadores
+acumuladores
+si sino/ segun
+para
+mientras
+repetir
+and
+or
+not
+operadores aritmeticos
+operadores logicos
+resolver el caso
